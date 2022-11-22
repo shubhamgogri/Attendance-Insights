@@ -1,2 +1,2 @@
 # Attendance-Insights
-[embed]https://github.com/shubhamgogri/Attendance-Insights/blob/main/HR%20-%20Attendance.pdf[/embed]
+![image](https://user-images.githubusercontent.com/67864186/203251937-0ac05fb5-1272-433d-9d8b-bfbae6ce095d.png)
